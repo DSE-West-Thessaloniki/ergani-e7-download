@@ -1,0 +1,23 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.ignoreWords": [
+    "Anaggelies",
+    "ERGANI",
+    "FOREA",
+    "MYSCH",
+    "Ypoboles",
+    "Ypobolis",
+    "blessuser",
+    "browserless",
+    "defval",
+    "dxgv",
+    "igtxtctl",
+    "networkidle"
+  ],
+  "cSpell.words": [
+    "ακολούθησέ",
+    "οριστικοποιημένων",
+    "φυλλομετρητή",
+    "χρονοσφραγίδα"
+  ]
+}
